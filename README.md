@@ -1,2 +1,2 @@
 # gupshup
-Go Library for gupshup APIs
+Go Library for gupshup APIs.
